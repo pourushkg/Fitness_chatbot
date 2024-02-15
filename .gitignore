@@ -158,3 +158,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
+data/Atomic_Habits.pdf
+data/Complete_Guide_to_Food_for_Sports.pdf
+data/contribution_of_physical_activity_in_fitness.pdf
+data/How_Not_to_Die.pdf
+data/You_Are_Your_Own_Gym_pdf.pdf
+data/Bigger_Leaner_Stronger.pdf

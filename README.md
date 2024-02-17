@@ -37,3 +37,16 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
 
+### For fine tuning I use these pdf's
+```bash
+1. Atomic_Habits.pdf
+2. Bigger_Leaner_Stronger.pdf
+3. Complete_Guide_to_Food_for_Sports.pdf
+4. contribution_of_physical_activity_in_fitness.pdf
+5. How_Not_to_Die.pdf
+6. You_Are_Your_Own_Gym_pdf.pdf
+```
+## Run app.py file
+## Go to the url given to get the fitness chatbot interface 
+
+
